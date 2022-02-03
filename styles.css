@@ -1,0 +1,52 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 32px;
+    font-style: italic;
+}
+
+h2 {
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#table-tags, #table-attributes {
+    text-align: center;
+}
+
+.table-header {
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+    background-color: darksalmon;
+    font-weight: bold;
+}
+
+tbody tr {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+tbody td {
+    border-top: 1px solid pink;
+}
+
+table {
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+
+}
